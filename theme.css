@@ -10,8 +10,7 @@
 #myNavbar{
     padding-right: 40px;
     padding-top: 30px;
-    float: right;
-    padding-right: 0px;
+
 }
 .navbar{
     padding-bottom: 50px;
@@ -81,6 +80,8 @@ a:active{
     }
     #myNavbar{
         float: right;
+        padding-right: 0px;
+        
     }
 
 }
