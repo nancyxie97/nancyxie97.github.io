@@ -59,10 +59,7 @@ a:active{
     color: #ad6256;
     text-decoration: none;
 }
-a:visited{
-    color: #ad6256;
-    text-decoration: none;
-}
+
 @media(max-width: 600px){
     .navbar-brand{
         min-height: 90px;
