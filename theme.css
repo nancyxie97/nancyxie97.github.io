@@ -9,7 +9,9 @@
 }
 #myNavbar{
     padding-right: 40px;
-    padding-top: 30px
+    padding-top: 30px;
+    float: right;
+    padding-right: 0px;
 }
 .navbar{
     padding-bottom: 50px;
@@ -48,7 +50,7 @@ h7{
 .icons{
     margin: 10px
 }
-@media(min-device-width: 320px){
+@media(max-width: 600px){
     .navbar-brand{
         min-height: 90px;
         padding-left: 10px;
@@ -62,10 +64,13 @@ h7{
     }
     .navbar{
     padding-bottom: 50px;
-    padding-left: 10px;
+    padding-left: 32px;
 }
     ul{
-        font-size: 12px;
+        font-size: 12px; 
+    }
+    #myNavbar{
+        float: right;
     }
 
 }
