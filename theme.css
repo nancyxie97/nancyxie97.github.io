@@ -13,7 +13,7 @@
 
 }
 .navbar{
-    padding-bottom: 50px;
+    padding-bottom: 25px;
     padding-left: 50px;
 }
 ul{
@@ -23,7 +23,6 @@ ul{
     font-family: 'Fira Sans', sans-serif;
     
 }
-
 .container{
     color: #c99087;
     padding-top: 200px;
@@ -49,6 +48,7 @@ footer{
 h7{
     font-size: 15px;
     padding-top: 0px;
+    font-family: 'Fira Sans', sans-serif;
 }
 .icons{
     margin: 10px
