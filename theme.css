@@ -48,7 +48,7 @@ h7{
 .icons{
     margin: 10px
 }
-@media(max-width: 600px){
+@media(min-device-width: 320px){
     .navbar-brand{
         min-height: 90px;
         padding-left: 10px;
