@@ -23,6 +23,7 @@ ul{
     font-family: 'Fira Sans', sans-serif;
     
 }
+
 .container{
     color: #c99087;
     padding-top: 175px;
@@ -56,12 +57,16 @@ h7{
 a:hover{
     color: #ad6256;
     text-decoration: none;
+    background-color: transparent;
 }
 a:active{
     color: #ad6256;
     text-decoration: none;
 }
 
+.navbar-nav li a:hover{
+    background-color: transparent;
+}
 @media(max-width: 800px){
     .navbar-brand{
         min-height: 90px;
@@ -90,6 +95,15 @@ a:active{
         padding-top: 120px;
         height: 500px;
     }
+    h7{
+        padding-top: 0px;
+        font-size: 12px;
+    }
+    .icons{
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+    }
+    
     
 
 
