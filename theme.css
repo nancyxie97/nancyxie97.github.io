@@ -60,6 +60,14 @@ h7{
         padding: 10px;
         font-size: 35px;
     }
+    .navbar{
+    padding-bottom: 50px;
+    padding-left: 30px;
+}
+    ul{
+        font-size: 12px;
+    }
+    
     
 
 }
