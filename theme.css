@@ -19,8 +19,11 @@
 ul{
     float: right;
     color: #797a7c;
-    font-size: 18px;
+    font-size: 16px;
+    font-family: 'Fira Sans', sans-serif;
+    
 }
+
 .container{
     color: #c99087;
     padding-top: 200px;
