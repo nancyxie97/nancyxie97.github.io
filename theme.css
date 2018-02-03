@@ -25,9 +25,9 @@ ul{
 }
 .container{
     color: #c99087;
-    padding-top: 200px;
+    padding-top: 175px;
     background-color: #edd0cb;
-    height: 600px;
+    height: 550px;
     width: auto;
     font-family: 'Lora', serif;
       
@@ -62,7 +62,7 @@ a:active{
     text-decoration: none;
 }
 
-@media(max-width: 600px){
+@media(max-width: 800px){
     .navbar-brand{
         min-height: 90px;
         padding-left: 10px;
@@ -85,6 +85,9 @@ a:active{
         float: right;
         padding-right: 0px;
         
+    }
+    container{
+        padding-top: 12px;
     }
 
 }
