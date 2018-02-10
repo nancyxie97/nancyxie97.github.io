@@ -41,6 +41,7 @@ a{
     color: #c99087;
     text-decoration: none;
 }
+
 footer{
     text-align: center;
     color: #c99087;
@@ -66,7 +67,17 @@ a:active{
 
 .navbar-nav li a:hover{
     background-color: transparent;
+    color: #ad6256;
 }
+
+.navbar-nav li a:visited{
+    background-color: white;
+    color: #ad6256;
+}
+footer .icon a:visited{
+    background-color:aquamarine;
+}
+
 @media(max-width: 800px){
     .navbar-brand{
         min-height: 90px;
