@@ -53,7 +53,10 @@ h7{
     font-family: 'Fira Sans', sans-serif;
 }
 .icons{
-    margin: 10px
+    margin: 10px;
+}
+.icons a:visited{
+    background-color: aqua;
 }
 a:hover{
     color: #ad6256;
@@ -72,11 +75,9 @@ a:active{
 
 .navbar-nav li a:visited{
     background-color: white;
-    color: #ad6256;
+    color: #e28576;
 }
-footer .icon a:visited{
-    background-color:aquamarine;
-}
+
 
 @media(max-width: 800px){
     .navbar-brand{
