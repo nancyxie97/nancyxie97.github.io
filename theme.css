@@ -55,9 +55,7 @@ h7{
 .icons{
     margin: 10px;
 }
-.icons a:visited{
-    background-color: aqua;
-}
+
 a:hover{
     color: #ad6256;
     text-decoration: none;
@@ -73,12 +71,14 @@ a:active{
     color: #ad6256;
 }
 
-.navbar-nav li a:visited{
-    background-color: white;
+.navbar-nav li a:focus{
+    background-color: transparent;
     color: #e28576;
 }
-footer .icons a:visited{
+
+.fa:focus{
     text-decoration: none;
+    color: #e28576;
 }
 
 
