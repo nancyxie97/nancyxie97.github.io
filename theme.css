@@ -77,6 +77,9 @@ a:active{
     background-color: white;
     color: #e28576;
 }
+footer .icons a:visited{
+    text-decoration: none;
+}
 
 
 @media(max-width: 800px){
