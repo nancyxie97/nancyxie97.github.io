@@ -2,7 +2,7 @@
     min-height: 120px;
 }
 .inside{
-    height: 120px;
+    height: 90px;
 }
 .icon-bar{
     background-color: #797a7c;
@@ -19,7 +19,7 @@
 ul{
     float: right;
     color: #797a7c;
-    font-size: 16px;
+    font-size: 14px;
     font-family: 'Fira Sans', sans-serif;
     
 }
@@ -118,7 +118,7 @@ a:active{
     .container{
         padding-top: 25px;
         padding-left: 25px;
-        height: 650px;
+        
     }
     .container img{
         max-height: 300px;
