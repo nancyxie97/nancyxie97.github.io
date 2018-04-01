@@ -26,12 +26,17 @@ ul{
 
 .container{
     color: #c99087;
-    padding-top: 175px;
-    background-color: #edd0cb;
+    padding-top: 50px;
+    padding-left: 100px;
+    background-color: white;
     height: 550px;
     width: auto;
     font-family: 'Lora', serif;
       
+}
+.container img{
+    max-height: 500px;
+    
 }
 h1{
     padding-left: 50px;
@@ -82,7 +87,7 @@ a:active{
 }
 
 
-@media(max-width: 800px){
+@media(max-width: 750px){
     .navbar-brand{
         min-height: 90px;
         padding-left: 10px;
@@ -107,9 +112,13 @@ a:active{
         
     }
     .container{
-        padding-top: 120px;
-        height: 500px;
+        padding-top: 25px;
+        padding-left: 25px;
+        height: 650px;
     }
+    .container img{
+        max-height: 300px;
+    } 
     h7{
         padding-top: 0px;
         font-size: 12px;
@@ -117,6 +126,9 @@ a:active{
     .icons{
         padding-bottom: 0px;
         margin-bottom: 0px;
+    }
+    .navbar-nav li{
+        padding: 10px;
     }
     
     

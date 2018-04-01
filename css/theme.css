@@ -1,0 +1,130 @@
+.navbar-brand{
+    min-height: 120px;
+}
+.inside{
+    height: 120px;
+}
+.icon-bar{
+    background-color: #797a7c;
+}
+#myNavbar{
+    padding-right: 40px;
+    padding-top: 30px;
+
+}
+.navbar{
+    padding-bottom: 25px;
+    padding-left: 50px;
+}
+ul{
+    float: right;
+    color: #797a7c;
+    font-size: 16px;
+    font-family: 'Fira Sans', sans-serif;
+    
+}
+
+.container{
+    color: #c99087;
+    background-color: #edd0cb;
+    width: auto;
+    font-family: 'Lora', serif;
+      
+}
+.container h1{
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+h1{
+    padding-left: 50px;
+    font-size:50px;
+}
+a{
+    color: #c99087;
+    text-decoration: none;
+}
+
+footer{
+    text-align: center;
+    color: #c99087;
+    font-size: 35px;
+}
+h7{
+    font-size: 15px;
+    padding-top: 0px;
+    font-family: 'Fira Sans', sans-serif;
+}
+.icons{
+    margin: 10px;
+}
+
+a:hover{
+    color: #ad6256;
+    text-decoration: none;
+    background-color: transparent;
+}
+a:active{
+    color: #ad6256;
+    text-decoration: none;
+}
+
+.navbar-nav li a:hover{
+    background-color: transparent;
+    color: #ad6256;
+}
+
+.navbar-nav li a:focus{
+    background-color: transparent;
+    color: #e28576;
+}
+
+.fa:focus{
+    text-decoration: none;
+    color: #e28576;
+}
+
+
+@media(max-width: 750px){
+    .navbar-brand{
+        min-height: 90px;
+        padding-left: 10px;
+    }
+    .inside{
+    height: 90px;
+}
+    h1{
+        padding: 10px;
+        font-size: 35px;
+    }
+    .navbar{
+    padding-bottom: 12px;
+    padding-left: 15px;
+}
+    ul{
+        font-size: 12px; 
+    }
+    #myNavbar{
+        float: right;
+        padding-right: 0px;
+        
+    }
+    .container h1{
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }
+    h7{
+        padding-top: 0px;
+        font-size: 12px;
+    }
+    .icons{
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+    }
+    .navbar-nav li{
+        padding: 10px;
+    }
+    
+    
+
+
+}
