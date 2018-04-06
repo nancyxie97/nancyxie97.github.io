@@ -6,8 +6,17 @@
     padding-top: 35px;
     
 }
-.navbar-brand{
-    min-height: 120px;
+.navbar-brand img{
+    min-height: 100px;
+}
+.navbar-nav li a:hover{
+    background-color: transparent;
+    color: #ad6256;
+}
+
+.navbar-nav li a:focus{
+    background-color: transparent;
+    color: #e28576;
 }
 .inside{
     height: 90px;

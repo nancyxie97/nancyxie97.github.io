@@ -1,7 +1,4 @@
 
-
-
-
 .container{
     color: #c99087;
     background-color: #edd0cb;
@@ -46,15 +43,7 @@ a:active{
     text-decoration: none;
 }
 
-.navbar-nav li a:hover{
-    background-color: transparent;
-    color: #ad6256;
-}
 
-.navbar-nav li a:focus{
-    background-color: transparent;
-    color: #e28576;
-}
 
 .fa:focus{
     text-decoration: none;
