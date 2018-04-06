@@ -1,5 +1,28 @@
 #myNavbar{
     padding-right: 40px;
-    padding-top: 20px;
-
+    
+}
+#myNavbar ul li{
+    padding-top: 35px;
+    
+}
+.navbar-brand{
+    min-height: 120px;
+}
+.inside{
+    height: 90px;
+}
+.icon-bar{
+    background-color: #797a7c;
+}
+.navbar{
+    padding-left: 50px;
+}
+ul{
+    float: right;
+    color: #797a7c;
+    font-size: 14px;
+    font-family: 'Fira Sans', sans-serif;
+    padding-top: 0px;
+    
 }
