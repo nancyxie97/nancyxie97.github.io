@@ -19,19 +19,15 @@
     max-width: 1500px;
     min-width: 500px;
 }
-h1{
-    font-size:40px;
+.container h1{
+    font-size: 30px;
 }
 a{
     color: #c99087;
     text-decoration: none;
 }
 
-footer{
-    text-align: center;
-    color: #c99087;
-    font-size: 35px;
-}
+
 h7{
     font-size: 15px;
     padding-top: 0px;
