@@ -26,17 +26,6 @@ a{
     color: #c99087;
     text-decoration: none;
 }
-
-
-h7{
-    font-size: 15px;
-    padding-top: 0px;
-    font-family: 'Fira Sans', sans-serif;
-}
-.icons{
-    margin: 10px;
-}
-
 a:hover{
     color: #ad6256;
     text-decoration: none;
@@ -45,16 +34,6 @@ a:hover{
 a:active{
     color: #ad6256;
     text-decoration: none;
-}
-
-.navbar-nav li a:hover{
-    background-color: transparent;
-    color: #ad6256;
-}
-
-.navbar-nav li a:focus{
-    background-color: transparent;
-    color: #e28576;
 }
 
 .fa:focus{

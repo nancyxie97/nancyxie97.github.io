@@ -2,6 +2,10 @@
     padding-right: 40px;
     
 }
+.navbar{
+    padding-left: 50px;
+    padding-bottom: 20px;
+}
 #myNavbar ul li{
     padding-top: 35px;
     
@@ -24,9 +28,15 @@
 .icon-bar{
     background-color: #797a7c;
 }
-.navbar{
-    padding-left: 50px;
-    padding-bottom: 20px;
+
+.navbar-nav li a:hover{
+    background-color: transparent;
+    color: #ad6256;
+}
+
+.navbar-nav li a:focus{
+    background-color: transparent;
+    color: #e28576;
 }
 ul{
     float: right;
@@ -35,4 +45,10 @@ ul{
     font-family: 'Fira Sans', sans-serif;
     padding-top: 0px;
     
+}
+@media(max-width: 615px){
+    #myNavbar ul li{
+    padding-top: 0px;
+    
+}
 }
