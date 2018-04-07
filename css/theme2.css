@@ -4,16 +4,20 @@
     padding-left: 100px;
     background-color: white;
     height: 550px;
-    width: auto;
+    width:auto;
     font-family: 'Lora', serif;
     padding-bottom: 100px;
+    display: flex;
       
 }
 .container img{
     max-height: 500px;
     max-width: 300px;
-    overflow: hidden;
     
+}
+.container .contain{
+    max-width: 1500px;
+    min-width: 500px;
 }
 h1{
     font-size:40px;
