@@ -61,6 +61,7 @@ a:active{
     .container h1{
         padding-top: 120px;
         padding-bottom: 120px;
+        font-size: 300%;
     }
     h7{
         padding-top: 0px;

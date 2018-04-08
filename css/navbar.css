@@ -38,7 +38,7 @@
     background-color: transparent;
     color: #e28576;
 }
-ul{
+#myNavbar ul{
     float: right;
     color: #797a7c;
     font-size: 14px;
@@ -48,7 +48,6 @@ ul{
 }
 @media(max-width: 615px){
     #myNavbar ul li{
-    padding-top: 0px;
+    padding-top: 0px;}
     
-}
 }
