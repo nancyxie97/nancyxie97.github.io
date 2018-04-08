@@ -46,7 +46,7 @@ a:active{
 }
 
 
-@media(max-width: @screen-xs-max){
+@media(max-width: 750px){
     .navbar-brand{
         min-height: 90px;
         padding-left: 10px;
