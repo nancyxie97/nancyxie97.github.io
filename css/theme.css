@@ -4,17 +4,19 @@
     background-color: #edd0cb;
     width: auto;
     font-family: 'Lora', serif;
+    transition: background-color 0.25s linear;
       
 }
 .container h1{
     padding-top: 200px;
     padding-bottom: 200px;
     padding-left: 50px;
-    font-size:60px;
+    font-size:5vw;
 }
 
 .container:hover{
-    background-color: #c99087;
+    background-color: #d8aca4;
+    color: #efd0cb;
 }
 a{
     color: #c99087;

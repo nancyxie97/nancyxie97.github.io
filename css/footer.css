@@ -2,7 +2,7 @@ footer{
     padding-top: 10px;
     text-align: center;
     color: #c99087;
-    font-size: 16px;
+    font-size: 1.5vw;
 }
 footer .icons{
     margin:  0px;
@@ -12,5 +12,5 @@ footer .icons{
 .footer-copyright{
     font-size: 16px;
     padding-top: 0px;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
