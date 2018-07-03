@@ -8,9 +8,15 @@ footer .icons{
     margin:  0px;
     padding-bottom: 0px;
     width:auto;
+    
 }
 .footer-copyright{
-    font-size: 16px;
+    
     padding-top: 0px;
     font-family: 'Montserrat', sans-serif;
+}
+@media(max-width: 750px){
+    footer{
+        font-size: 3vw;
+    }
 }
